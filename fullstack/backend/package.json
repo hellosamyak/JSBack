@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "basic fullstack app test",
+  "keywords": [
+    "fullstack",
+    "node",
+    "express",
+    "npm"
+  ],
+  "license": "ISC",
+  "author": "Samyak Jain",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
