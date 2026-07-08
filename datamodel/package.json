@@ -1,0 +1,21 @@
+{
+  "name": "datamodel",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "data",
+    "model",
+    "mongoose"
+  ],
+  "license": "ISC",
+  "author": "Samyak Jain",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.7.4"
+  }
+}
