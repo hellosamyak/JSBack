@@ -57,7 +57,6 @@ const toggleSubscription = asyncHandler(async (req, res) => {
 const getUserChannelSubscribers = asyncHandler(async (req, res) => {
 
     const { channelId } = req.params
-    const { channelId } = req.params
 
     // to get channel subscribers
 
